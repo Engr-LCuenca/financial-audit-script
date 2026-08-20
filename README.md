@@ -10,11 +10,11 @@ By automating these checks, the solution helps reduce manual effort, speeds up t
 
 ## Features
 
-- Load sample financial transactions from a simulated dataset
-- Filter suspicious orders based on a configurable limit
-- Detect negative or erroneous amounts that should be flagged
-- Calculate an 8% tax estimate for valid positive amounts
-- Keep the implementation clean, modular, and easy to extend
+- Load sample financial transactions from a simulated dataset.
+- Filter suspicious orders based on a configurable limit.
+- Detect negative or erroneous amounts that should be flagged.
+- Calculate an 8% tax estimate for valid positive amounts.
+- Keep the implementation clean, modular, and easy to extend.
 
 ## How to Run
 
