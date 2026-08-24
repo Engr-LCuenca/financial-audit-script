@@ -6,7 +6,7 @@ A lightweight Python-based audit utility designed to help teams review financial
 
 Financial review processes often require manual inspection of large transaction sets, which consumes valuable time and increases the risk of human error. This project addresses that need by automating the first layer of audit analysis: detecting unusual amounts and preparing a basic tax calculation for further review.
 
-By automating these checks, the solution helps reduce manual effort, speeds up the audit workflow, and improves consistency in identifying potentially problematic orders.
+By automating these checks, the solution helps reduce manual effort, speeds up the audit workflow, and improves consistency in identifying potentially problematic orders.  
 
 ## Features
 
