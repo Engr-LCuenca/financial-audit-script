@@ -39,3 +39,6 @@ financial-audit-script/
 ## Notes
 
 This project is intentionally simple and educational. It is designed to demonstrate core Python concepts such as function decomposition, type hints, and basic financial data processing.
+
+## License
+MIT
